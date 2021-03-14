@@ -1,5 +1,5 @@
-import { ReactComponent as WorkIcon } from "../work.svg"
-import { ReactComponent as SchoolIcon } from "../school.svg"
+import { ReactComponent as WorkIcon } from "../assets/work.svg"
+import { ReactComponent as SchoolIcon } from "../assets/school.svg"
 
 import timelineElements from "./timelineElements"
 import "./Timeline.css";
