@@ -1,0 +1,59 @@
+.about{
+    padding: 40px auto;
+    margin: 55px auto;
+}
+
+.headin{
+    text-align: center;
+}
+
+
+.column1 {
+    float: left;
+    width: 47%;
+    padding: 5px;
+    height: 600px; 
+  }
+
+  .img1{
+      height: 400px;
+      width: 600px;
+  }
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .row{
+      margin-left: 100px;
+      margin-top: 50px;
+  }
+
+  .img2{
+      display: flex;
+      height: 300px;
+      width: 200px;
+      margin-left: 60px;
+      margin-right: 60px;
+  }
+
+  .img2a{
+      height: 50px;
+      width: 20px;
+      margin-right: 40px;
+  }
+
+  .img2b{
+    height: 50px;
+    width: 600px;
+    margin-right: 40px;
+}
+
+.img2c{
+    height: 50px;
+    width: 80px;
+    margin-right: 40px;
+}
+  
