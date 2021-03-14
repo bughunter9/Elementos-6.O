@@ -27,7 +27,7 @@ function Header() {
             <h3 className="text2">Events</h3>
         </li>
         <li>
-            <h3 className="text3">Contacts</h3>
+            <h3 className="text3">Contact Us</h3>
         </li>
       </ul>
     </header>
