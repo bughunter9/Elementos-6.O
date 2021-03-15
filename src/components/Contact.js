@@ -1,6 +1,6 @@
 import React from "react";
 import "./Contact.css";
-import SocialMedia from "../Container/Media";
+import SocialMedia from "../container/Media";
 import { contactInfo } from "../info";
 import { Fade } from "react-reveal";
 
@@ -37,7 +37,7 @@ function Contact() {
           <div className="contact-image-div">
             <img
               alt="Working"
-              src=""
+              src="https://www.burgerking.in/static/media/bk-wall-banner-3.4ab48ec9.jpg"
             />
           </div>
         </div>

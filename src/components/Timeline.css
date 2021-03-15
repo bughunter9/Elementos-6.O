@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Merriweather:wght@700&display=swap');
+
+
 .timeline {
     background: #3da3d5;
     font-family: "Montserrat", sans-serif;
@@ -12,7 +16,7 @@
     font-size: 100px;
     text-align: center;
     padding: 50px auto;
-    font-family: "Bebas Neue", sans-serif;
+    font-family: 'Merriweather', serif;
     font-weight: 400;
   }
   

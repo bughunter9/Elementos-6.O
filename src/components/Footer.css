@@ -1,11 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Merriweather:wght@700&display=swap');
+
+
 .footer-text {
     text-align: center;
     color: #868e96 !important;
-    font-size: 20px;
+    font-size: 26px;
+    font-family: 'Balsamiq Sans', cursive;
+
   }
   
   .footer-div {
-    margin-top: 8rem;
+    margin-top: 4rem;
     padding-bottom: 1rem;
   }
   

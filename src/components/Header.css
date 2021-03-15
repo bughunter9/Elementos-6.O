@@ -1,9 +1,11 @@
 /* header */
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
 
   .header {
     background-color: #fff;
     max-width: 100%;
-    padding: 10px 40px 5px;
+    padding: 10px 40px 20px;
     margin: 0px auto;
   }
   
@@ -33,13 +35,13 @@
     display: block;
     flex: none;
     float: left;
-    font-size: 1.5em;
+    font-size: 20px;
     text-decoration: none;
-    margin-top: 10px;
+    margin-top: 20px;
     line-height: normal;
   }
   .header .logo-name {
-    font-family: "Agustina Regular";
+    font-family: 'RocknRoll One', sans-serif;
     font-weight: bold;
     font-size: 30px;
     font-variant-ligatures: no-common-ligatures;
@@ -47,17 +49,20 @@
     padding: 0 30px;
   }
     .text1{
-        font-size: 20px;
+        font-size: 25px;
         font-weight: 400;
+        font-family: 'RocknRoll One', sans-serif;
     }
     .text2{
-        font-size: 20px;
+        font-size: 25px;
         font-weight: 400;
+        font-family: 'RocknRoll One', sans-serif;
     }
     .text3{
-        font-size: 20px;
+        font-size: 25px;
         margin-right: 200px;
         font-weight: 400;
+        font-family: 'RocknRoll One', sans-serif;
 
     }
   /* menu */
@@ -136,7 +141,7 @@
   }
   
   /* 48em = 768px */
-  
+  /* Media Query */
   @media (min-width: 48em) {
     .header li {
       float: left;
@@ -153,9 +158,12 @@
       display: none;
     }
   }
-  @media (max-width: 960px) and (min-width: 768px) {
+  @media (max-width: 960px) and (min-width: 468px) {
     .header {
       font-size: 12px;
+    }
+    .header .logo-name {
+      font-size: 25px;
     }
   }
   
