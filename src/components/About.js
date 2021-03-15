@@ -18,12 +18,12 @@ function About() {
           </div>
           <div className="col1b">
                 <h4>
-                Continuing with the tradition of organising the biggest technical 
-                fest in Thapar over the last 5 years , IETE is back with another version
-                upgrade : Elementos 6.O. A week long series of fun-filled and brain storming
-                events, which are open for all the students in and accross Thapar. Come in
-                and Enjoy the events while staying productive at your best 
-                energy levels.
+                Proudly continuing the tradition of organising the Biggest Technical Fest in
+                Thapar for over the past 5 years, IETE is back with another version upgrade: 
+                Elementos 6.O. A week-long series of fun-filled and brainstorming events, 
+                which are open for all the students in and across Thapar. Come in and Enjoy
+                the intense events and staying productive at your best energy levels. 
+                Experience the unravelling of the big surprises ‼️
                 </h4>
           </div>
         </div>
