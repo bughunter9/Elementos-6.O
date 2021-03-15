@@ -14,6 +14,7 @@ function Carousel() {
       isPlaying="true"
       interval="2000"
       style={{ cursor: "pointer" }}
+      style={{ margin: "40px"}}
     >
       <Slider>
         <Slide index={0}>

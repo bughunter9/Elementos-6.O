@@ -96,3 +96,27 @@
   display: table;
   clear: both;
 }
+
+
+
+  /* Media Query */
+  @media (max-width: 1380px), (max-width: 768px) {
+
+    .row2{
+      display: block;
+      align: center;
+    }
+    .col1{
+      width: 350px;
+      align-content: center;
+    }
+    .img1{
+      height: 300px;
+      width: 300px;
+      padding-bottom: 0px;
+    }
+
+    .row{
+      display: block;
+    }
+  }
