@@ -13,8 +13,7 @@ function Carousel() {
       totalSlides={3}
       isPlaying="true"
       interval="2000"
-      style={{ cursor: "pointer" }}
-      style={{ margin: "40px"}}
+      style={{ cursor: "pointer",marginTop: "40px" }}
     >
       <Slider>
         <Slide index={0}>
