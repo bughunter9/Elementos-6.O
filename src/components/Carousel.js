@@ -9,7 +9,7 @@ function Carousel() {
   return (
     <CarouselProvider
       naturalSlideWidth={1038}
-      naturalSlideHeight={279}
+      naturalSlideHeight={339}
       totalSlides={3}
       isPlaying="true"
       interval="2000"

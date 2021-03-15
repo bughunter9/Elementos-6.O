@@ -8,7 +8,7 @@ function Header() {
     <Headroom>
     <header className="header">
       <Link to='/' style={{ textDecoration: 'none' }}>
-        <a href="/" className="logo">
+        <a href="" className="logo">
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">ELEMENTOS 6.O</span>
           <span className="grey-color">/&gt;</span>
