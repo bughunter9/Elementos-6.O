@@ -6,25 +6,25 @@ function About() {
     <div className="about">
       <div className="upper-part">
         <div className="headin">
-          <h1> ABOUT ELEMENTOS 6.O</h1>
+          <h1> About Elementos 6.O</h1>
         </div>
         <div className="row2">
-          <div className="col1">
+          <div className="col1a">
             <img
               className="img1"
               src="https://www.burgerking.in/static/media/home-of-the-whopper.33b5f485.jpg"
               alt=""
             />
           </div>
-          <div className="col1">
-            <h4>CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT
-             CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT
-              CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT 
-              CONTENT CONTENT CONTENT CONTENT CONTENT CONTENT CONTENTC ONTENTC O 
-              NTENTCONT ENTCONTE NTCONTENTC ONTENTCONTE NTCON TENTCONTENTCONTENTC 
-              ONTENTCONT ENTCONTENTCONTENTCONT ENTCONTENTC ONTENTCONTENT CONTENTCONT 
-               ENTCONTENTCONTEN  TCONTENTCONTE NTCONTENTC ONTENTCONTE NTCONTENTCON 
-                 TENTCONTENTC   ONTENTCONTEN TCONTENTCO NTENTCONTENT</h4>
+          <div className="col1b">
+                <h4>
+                Continuing with the tradition of organising the biggest technical 
+                fest in Thapar over the last 5 years , IETE is back with another version
+                upgrade : Elementos 6.O. A week long series of fun-filled and brain storming
+                events, which are open for all the students in and accross Thapar. Come in
+                and Enjoy the events while staying productive at your best 
+                energy levels.
+                </h4>
           </div>
         </div>
       </div>
