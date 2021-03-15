@@ -20,7 +20,7 @@
 
 .row {
   margin-left: 40px;
-  margin-top: 5px;
+  margin-top: 100px;
   display: flex;
   width: fit-content;
 }
@@ -37,10 +37,10 @@
   align-items: center;
   padding: 5px;
   margin-right: 15px;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 .col2a img {
-  width: 100%;
+  width: 90%;
   align-items: center;
   padding: 10px auto;
 }
@@ -55,7 +55,7 @@
 .col2b img {
   width: 90%;
   align-items: center;
-  padding: 10px;
+  padding: 10px auto;
 }
 .col2c {
   float: left;
@@ -68,7 +68,7 @@
 .col2c img {
   width: 90%;
   align-items: center;
-  padding: 10px;
+  padding: 10px auto;
 }
 
 .col1 {
@@ -140,6 +140,6 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 80%;
+      width: 90%;
     }
   }
